@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RTP1"
+#EXTINF:-1 tvg-group="todos os canais"
 http://x.bloodshot.eu:8080/get.php?username=aaeZDdKVwp&password=uSEMht6AvD&type=m3u
-
-#EXTM3U
-#EXTINF:-2 tvg-name="RTP2"
-http://x.bloodshot.eu:8080/get.php?username=ruigomes1&password=fINxivLNX1&type=m3u
-
-#EXTM3U
-#EXTINF:-3 tvg-name"SIC"
-http://x.bloodshot.eu:8080/get.php?username=dssDlJgYpU&password=ScY7YPLZst&type=m3u
